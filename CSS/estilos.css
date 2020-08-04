@@ -49,6 +49,13 @@ body{
     padding: 1em;
 }
 
+#post #imagen1
+{
+    width: 65%;
+    display: block;
+    margin: auto;
+}
+
 #footer
 {
     background: #777777;
