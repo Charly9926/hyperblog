@@ -8,5 +8,6 @@
 * El amor por las buenas prácticas
 * Trucos locos 😉
 * Que freddy puede ser anita si el guion lo requiere 🤭
+* Creado por el increible estudiante CMJ
 
 ### Favor de ignorar este "proyecto" a no se de que seas Freddy 👀
